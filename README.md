@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ahmed Bn Samy**
 
 - GitHub: [@AhmedBnSamy](https://github.com/AhmedBnSamy)
-- LinkedIn: [Add your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmedbnsamy/))
+- LinkedIn: [@AhmedSamy]((https://www.linkedin.com/in/ahmedbnsamy/))
 
 ## 🙏 Acknowledgments
 
